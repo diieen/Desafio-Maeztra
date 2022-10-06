@@ -1,7 +1,7 @@
 import { Modal } from "@mui/material";
 import { useState } from "react";
 
-import useWindowWidth from "../../components/windowWidth";
+import useWindowWidth from "../WindowWidth";
 
 import banner from "../../assets/smart-news.png";
 import mail from "../../assets/icon-mail.svg";

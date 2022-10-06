@@ -1,6 +1,6 @@
 import { Accordion, AccordionDetails, AccordionSummary } from '@mui/material';
 
-import useWindowWidth from '../../components/windowWidth';
+import useWindowWidth from '../WindowWidth';
 
 import facebook from "../../assets/icon-facebook.svg";
 import instagram from "../../assets/icon-instagram.svg";

@@ -1,4 +1,4 @@
-import useWindowWidth from "../../components/windowWidth";
+import useWindowWidth from "../WindowWidth";
 
 import "./style.scss";
 

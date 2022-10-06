@@ -1,5 +1,5 @@
 import Slider from "react-slick";
-import useWindowWidth from '../../components/windowWidth';
+import useWindowWidth from '../WindowWidth';
 
 import banner from "../../assets/main-banner.png";
 import bannerMobile from "../../assets/main-banner-mobile.png";

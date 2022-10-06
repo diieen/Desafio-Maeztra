@@ -1,4 +1,4 @@
-import StoreInfo from "../storeInfo";
+import StoreInfo from "../StoreInfo";
 
 import world from "../../assets/icon-world.svg";
 import garage from "../../assets/icon-garage.svg";

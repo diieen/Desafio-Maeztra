@@ -1,8 +1,8 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper";
 
-import Product from "../product";
-import useWindowWidth from "../../components/windowWidth";
+import Product from "../Product";
+import useWindowWidth from "../WindowWidth";
 
 import product1 from "../../assets/product-img-1.png";
 import product2 from "../../assets/product-img-2.png";

@@ -1,8 +1,8 @@
-import useWindowWidth from '../../components/windowWidth';
+import useWindowWidth from '../WindowWidth';
 
 import HeaderDesktop from "./components/desktop";
 import HeaderMobile from "./components/mobile";
-import MenuItem from "../../components/menuItem";
+import MenuItem from "../MenuItem";
 
 import dress from "../../assets/icon-dress.svg";
 
